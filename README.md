@@ -1,0 +1,2 @@
+# SplittedSegTree
+Reserch the algorytm
